@@ -1,0 +1,30 @@
+
+2/16/2026
+
+I successfully performed:
+	•	Interface enumeration (identified active network interfaces + IP assignments)
+	•	Gateway discovery (confirmed default route + router address)
+	•	Network mapping (identified reachable hosts/subnet structure)
+	•	Router probing (validated router response + basic service behavior)
+
+ I demonstrated:
+	•	Process monitoring (tracked running services + background activity)
+	•	Resource usage analysis (checked CPU/memory usage and system load)
+	•	CLI enumeration (explored key commands for system/network inspection)
+	•	System health awareness (verified uptime, storage, and general stability)
+
+I also:
+	•	Created a listening service (bound to a port and confirmed it was active)
+	•	Verified it with a scanner (confirmed port visibility from another device)
+	•	Established a TCP connection (tested successful handshake + data flow)
+	•	Observed live network communication (captured/confirmed real traffic behavior)
+
+Key takeaways:
+	•	Confirmed that scanning results match what the system reports locally.
+	•	Learned how services appear differently depending on internal vs external visibility.
+	•	Reinforced the difference between open ports, listening services, and active connections.
+
+Next steps:
+	•	Repeat the process using a different port and service type.
+	•	Document command outputs for proof/logging.
+	•	Begin controlled lab scanning using isolated VM targets.
